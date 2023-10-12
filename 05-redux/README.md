@@ -1,2 +1,2 @@
-Lesson 03
-Waiters List CRUD (with delete and update)
+Lesson 05
+Waiters List CRUD (with Redux and Thunk)
